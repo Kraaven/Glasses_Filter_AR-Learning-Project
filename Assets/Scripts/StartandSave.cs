@@ -9,6 +9,7 @@ using Random = Unity.Mathematics.Random;
 public class StartandSave : MonoBehaviour
 {
     // Start is called before the first frame update
+    //Game Done!
 
     public GameObject parentCanvas;
 
