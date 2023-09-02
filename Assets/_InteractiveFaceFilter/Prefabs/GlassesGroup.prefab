@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6251917513800888290}
   - component: {fileID: 800419917795392273}
+  - component: {fileID: 8334677621807861357}
   m_Layer: 0
   m_Name: GlassesGroup
   m_TagString: Untagged
@@ -48,6 +49,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DestroyOnRemoval: 1
+--- !u!114 &8334677621807861357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4652391381832780669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89e776a4236acf049922a2a71d471a30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentCanvas: {fileID: 0}
 --- !u!1001 &5652615250076683123
 PrefabInstance:
   m_ObjectHideFlags: 0
